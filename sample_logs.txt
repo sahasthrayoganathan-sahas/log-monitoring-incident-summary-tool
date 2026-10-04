@@ -1,0 +1,17 @@
+2026-09-29 10:00:01 | INFO | AuthService | User login successful
+2026-09-29 10:01:10 | ERROR | PaymentService | Database connection failed
+2026-09-29 10:01:20 | ERROR | PaymentService | Database connection failed
+2026-09-29 10:02:05 | WARNING | AuthService | Multiple login attempts detected
+2026-09-29 10:02:30 | ERROR | OrderService | Payment timeout
+2026-09-29 10:03:10 | ERROR | PaymentService | Database connection failed
+2026-09-29 10:03:25 | ERROR | PaymentService | Database connection failed
+2026-09-29 10:04:15 | ERROR | OrderService | Payment timeout
+2026-09-29 10:05:05 | INFO | OrderService | Order processed successfully
+2026-09-29 10:06:10 | ERROR | AuthService | Authentication failed
+2026-09-29 10:06:30 | ERROR | AuthService | Authentication failed
+2026-09-29 10:07:20 | ERROR | AuthService | Authentication failed
+2026-09-29 10:08:05 | ERROR | AuthService | Authentication failed
+2026-09-29 10:09:10 | ERROR | PaymentService | Payment failed
+2026-09-29 10:10:15 | CRITICAL | PaymentService | Database connection failed
+2026-09-29 10:11:20 | ERROR | OrderService | Payment timeout
+2026-09-29 10:12:05 | INFO | AuthService | User logout successful
